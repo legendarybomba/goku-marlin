@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
@@ -89,3 +90,7 @@ Custom Marlin for Ender-3 Pro
 # vegeta-marlin
 Custom Marlin for Ender-3 Pro
 >>>>>>> a55159f4dedff080a9e6e448d2bea35e8305abf9
+=======
+# goku-marlin
+Custom Marlin for Ender-3 Pro
+>>>>>>> 3ba3615f8e0b038e9ffff1cc94f04aaadfef5e58
